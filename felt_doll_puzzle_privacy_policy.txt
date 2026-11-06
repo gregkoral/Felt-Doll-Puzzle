@@ -1,0 +1,54 @@
+Felt Doll Puzzle – Privacy Policy
+
+Last updated: 6 November 2026
+
+In short
+
+Felt Doll Puzzle: Kids Game ("the app") does not collect, store on any server, share or sell any personal data. It has no accounts, no ads, no in-app purchases, no analytics and no tracking. Game progress stays only on your device.
+
+This policy applies to the Android app with the package name com.koralovedesigns.puzzle.app.
+
+Who is responsible
+
+The app is made by Grzegorz Koralewski, trading as KoraLoveDesigns, Poland. You can reach us at hello@koralovedesigns.com.
+
+Our website has its own privacy policy (https://koralovedesigns.com/privacy-policy/), which covers the website only.
+
+What the app stores on your device
+
+To remember the game between sessions, the app saves a small amount of information in the device's local app storage:
+
+- which puzzles have been completed and which books (volumes) are unlocked,
+- the puzzles marked as favourites.
+
+This information is not personal data, never leaves the device and is not sent to us or anyone else. It is deleted when you uninstall the app or clear its data in the Android settings.
+
+What the app does not do
+
+- It does not ask for or collect names, email addresses, photos, location, contacts, device identifiers or any other personal data.
+- It does not use the internet. All pictures, sounds and recordings are built into the app.
+- It contains no advertising, analytics, crash reporting or other third-party services that collect data.
+- It does not use the camera, microphone or location, and it requests no special Android permissions.
+- It has no chat, sharing or social features, so children cannot contact anyone through it.
+
+Children
+
+The app is designed for children. Because it collects no personal data, it is designed to meet the requirements of the EU General Data Protection Regulation (GDPR), the US Children's Online Privacy Protection Act (COPPA) and Google Play's Families Policy and needs no parental consent.
+
+The app has a few buttons that lead to our website, where parents can learn about the felt sewing pattern books. They are behind a parent gate: a grown-up must answer a simple multiplication question first. Only then does the app open the page in the device's web browser. From that point the website's own privacy policy applies, and the app sends no information to it.
+
+Google Play
+
+The app is downloaded from Google Play. Google may process information about the download and the device under its own privacy policy (https://policies.google.com/privacy). We do not receive personal data about you or your child from Google.
+
+Your rights
+
+We hold no personal data about you or your child, so there is nothing for us to access, correct or delete. To remove everything the app saved, uninstall it or clear its data in the Android settings. If you have questions or concerns, write to us. In Poland you may also complain to the President of the Personal Data Protection Office (UODO).
+
+Changes to this policy
+
+If the app ever changes how it handles data, we will update this page and the date at the top before releasing that version.
+
+Contact
+
+Grzegorz Koralewski, KoraLoveDesigns, Poland – hello@koralovedesigns.com
